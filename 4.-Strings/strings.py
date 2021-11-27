@@ -22,6 +22,6 @@ print(listado_lenguajes_2)
 #lista a string
 lenguajes_4 = ['4', 'Python', 'Ruby', 'Java', 'Rust', 'C++', 'C']
 
-string_lenguajes = ' '.join(lenguajes_4)
+string_lenguajes = '-'.join(lenguajes_4)
 print(string_lenguajes)
 print(type(string_lenguajes))
